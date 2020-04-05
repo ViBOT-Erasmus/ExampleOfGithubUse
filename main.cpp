@@ -4,6 +4,6 @@
 
 int main()
 {
-    std::cout << "Hello World!" << std::endl;
+    std::cout << "Example of Git and Github use" << std::endl;
     return 0;
 }
